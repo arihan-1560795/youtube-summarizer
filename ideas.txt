@@ -1,0 +1,3 @@
+Download chapter information
+Download sponsorblock data
+When running transcript- use sponsorblock to remove segments; chapter for classification/ split stuff
