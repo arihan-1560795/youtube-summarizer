@@ -1,3 +1,8 @@
 Download chapter information
 Download sponsorblock data
 When running transcript- use sponsorblock to remove segments; chapter for classification/ split stuff
+
+Summarization Stuff-
+Keeping tabs on whether file exists; and aborting downloading it
+Running this continually over YouTube subsciptions and downloading their catalog within the last 48 hours
+Using bert medium for segment classification/ grouping
